@@ -16,20 +16,6 @@ I am a SWE with a strong focus on machine learning, computer vision, and high-pe
 
 ---
 
-## 🚀 Projects
-<!-- Replace with your actual projects -->
-- **FAISS-Based Protein Retrieval using LLM Embeddings** – Implements a FAISS-based protein retrieval system using LLM-derived embeddings trained on UniRef50.  
-- **multiView_SfM** – A library version to implement the structure from motion pipeline. 
-
----
-
-## 📚 Currently Learning
-- ROS2
-- Isaac Sim
-- Vulkan
-
----
-
 ## ☕ Beyond Engineering
 I’m particularly interested in discussing:
 - Navier–Stokes Equations
