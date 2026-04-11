@@ -16,11 +16,16 @@ I am a SWE with a strong focus on machine learning, computer vision, and high-pe
 
 ---
 
+## 📚 Currently Learning
+
+ROS2 · Isaac Sim · Vulkan
+
 ## ☕ Beyond Engineering
 I’m particularly interested in discussing:
 - Navier–Stokes Equations
 - Topology
 - P vs NP
+- Linux
 
 ---
 
