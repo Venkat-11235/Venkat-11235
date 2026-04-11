@@ -6,28 +6,13 @@ I am a SWE with a strong focus on machine learning, computer vision, and high-pe
 
 ## 🛠 Tech Stack
 
-### Programming Languages
-- Python
-- C++
+**Programming Languages:** Python · C++  
 
-### Machine Learning & AI
-- PyTorch
-- TensorFlow
-- JAX
+**Machine Learning & AI:** PyTorch · TensorFlow · JAX  
 
-### Computer Vision
-- OpenCV
-- Multi-view Geometry
-- Structure from Motion
-- CNNs
-- Vision Transformers
-- OpenVLA
+**Computer Vision:** OpenCV · Multi-view Geometry · Structure from Motion · CNNs· Vision Transformers · OpenVLA  
 
-### Parallel & High-Performance Computing
-- CUDA
-- OpenMP
-- Multi-threading
-- Low-precision inference
+**Parallel & High-Performance Computing:** CUDA · OpenMP · Multi-threading · Low-precision inference  
 
 ---
 
