@@ -10,15 +10,15 @@ I am a SWE with a strong focus on machine learning, computer vision, and high-pe
 
 **Machine Learning & AI:** PyTorch · TensorFlow · JAX  
 
-**Computer Vision:** OpenCV · Multi-view Geometry · Structure from Motion · CNNs· Vision Transformers · OpenVLA  
+**Computer Vision:** OpenCV · Multi-view Geometry · CNNs· Vision Transformers · OpenVLA  
 
 **Parallel & High-Performance Computing:** CUDA · OpenMP · Multi-threading · Low-precision inference  
 
 ---
 
-## 📚 Currently Learning
+## 📚 Currently working on ...
 
-ROS2 · Isaac Sim · Vulkan
+Representation learning on 3D Protein Structures, Medical imaging.
 
 ## ☕ Beyond Engineering
 I’m particularly interested in discussing:
@@ -29,9 +29,6 @@ I’m particularly interested in discussing:
 
 ---
 
-## 📫 Contact
-- GitHub: https://github.com/Venkat-11235
-- LinkedIn: https://www.linkedin.com/in/venkat-musunuru/
 <!--
 **Venkat-11235/Venkat-11235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
